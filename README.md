@@ -1,3 +1,6 @@
+Completed with Abhijeet Prem and Mahika Godbole
+Hayden Galante's contributions include the assembly code, modifications to rvfpganexys.sv and Swervolf_core.sv, 
+You can find my principle contributions in SweRVolfSoC/Peripherals where I wrote camera_capture.sv, decoder.sv, and vga.sv. I also helped with debugging and design on imageproc.sv.
 # ECE 540 final_project-video_ascii_art
 
 
