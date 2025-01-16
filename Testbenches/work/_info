@@ -1,0 +1,58 @@
+m255
+K4
+z2
+!s11f vlog 2022.3 2022.07, Jul 18 2022
+13
+!s112 1.1
+!i10d 8192
+!i10e 25
+!i10f 100
+cModel Technology
+dC:/questasim64_2022.3/examples
+vdtg
+!s110 1668905166
+!i10b 1
+!s100 h<3K[CVJGo>Yjam5?khL_1
+IgdijQ?z^=B6H1z<XU`gkY2
+Z0 d//thoth.cecs.pdx.edu/Home04/galante/My Documents/GitHub/final_project-video_ascii_art/Testbenches
+w1668904486
+8\\thoth.cecs.pdx.edu\Home04\galante\My Documents\GitHub\final_project-video_ascii_art\Testbenches\dtg_copy.v
+F\\thoth.cecs.pdx.edu\Home04\galante\My Documents\GitHub\final_project-video_ascii_art\Testbenches\dtg_copy.v
+!i122 12
+L0 30 71
+Z1 VDg1SIo80bB@j0V0VzS_@n1
+Z2 OL;L;2022.3;75
+r1
+!s85 0
+31
+Z3 !s108 1668905165.000000
+!s107 \\thoth.cecs.pdx.edu\Home04\galante\My Documents\GitHub\final_project-video_ascii_art\Testbenches\dtg_copy.v|
+!s90 -reportprogress|300|-work|work|-vopt|-stats=none|\\thoth.cecs.pdx.edu\Home04\galante\My Documents\GitHub\final_project-video_ascii_art\Testbenches\dtg_copy.v|
+!i113 0
+o-work work -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+Z4 tCvgOpt 0
+vimageProctb
+DXx6 sv_std 3 std 0 22 9oUSJO;AeEaW`l:M@^WG92
+!s110 1668905165
+!i10b 1
+!s100 ndM<i_27dd2MeTNFUg?@c1
+I9A8JlnFgb_1G3Se^T?R=V2
+S1
+R0
+w1668905165
+8//thoth.cecs.pdx.edu/Home04/galante/My Documents/GitHub/final_project-video_ascii_art/Testbenches/image_proc_tb.sv
+F//thoth.cecs.pdx.edu/Home04/galante/My Documents/GitHub/final_project-video_ascii_art/Testbenches/image_proc_tb.sv
+!i122 11
+L0 5 74
+R1
+R2
+r1
+!s85 0
+31
+R3
+!s107 //thoth.cecs.pdx.edu/Home04/galante/My Documents/GitHub/final_project-video_ascii_art/Testbenches/image_proc_tb.sv|
+!s90 -reportprogress|300|-work|work|-vopt|-sv|-stats=none|//thoth.cecs.pdx.edu/Home04/galante/My Documents/GitHub/final_project-video_ascii_art/Testbenches/image_proc_tb.sv|
+!i113 0
+o-work work -sv -L mtiAvm -L mtiRnm -L mtiOvm -L mtiUvm -L mtiUPF -L infact
+R4
+nimage@proctb
